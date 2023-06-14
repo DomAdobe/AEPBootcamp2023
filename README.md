@@ -29,7 +29,8 @@ When building your presentation try to consider these aspects of a great custome
 * Innovation/Creativity
 * Collaboration and Completeness
 
-### DEMO SCENARIO: WKND Fly (T&H) -- WILL BE PRESENTED BY ADOBE PARTNER SOLUTION CONSULTANT
+### PRESENTATIONS
+## Demo Scenario: WKND Fly (T&H) -- WILL BE PRESENTED BY ADOBE PARTNER SOLUTION CONSULTANT
 
 Challenges:
 WKND Fly wants to learn more about their customers, their online and offline behaviour. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalised experience.
