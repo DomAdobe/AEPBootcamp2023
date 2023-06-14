@@ -39,7 +39,7 @@ WKND Fly wants to learn more about their customers, their online and offline beh
 
 ## Breakouts
 
-Each team will be assigned a given scenarion from the list below that they will try to solve in the breakout part of this session.
+During the Breakouts each team works on one scenario from the list below:
 
 ### Scenario A: SecurFinance One (FSI)
 
