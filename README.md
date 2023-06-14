@@ -3,11 +3,11 @@
 ![Adobe_MoP_CDP_Red-Pink-Green](https://user-images.githubusercontent.com/61875393/192518583-46dbf821-e7d7-4080-be31-f60502aa8d5e.png)
 
 
-## Goal
+## GOAL
 
 Learn and practice how to deliver a customer pitch (including a live demo) that shows how Adobe Real-Time Customer Data Platform solves business challenges in various industries. 
 
-## Workshop Context
+## WORKSHOP CONTEXT
 
 To make a discovery with the client, you will meet with the client representatives (incl. CMO, Audience Programme Manager, Director of Privacy, Director of Operations). 
 
@@ -37,7 +37,7 @@ When building your presentation try to consider these aspects of a great custome
 Challenges:
 WKND Fly wants to learn more about their customers, their online and offline behaviour. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalised experience.
 
-## Breakouts
+## BREAKOUTS
 
 During the Breakouts each team works on one scenario from the list below:
 
@@ -86,7 +86,7 @@ Environments:
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
-## Inspirations (applicable to all Scenarios)
+## INSPIRATIONS (applicable to all Scenarios)
  
 Data Integration: Design a solution to integrate data from multiple sources such as transactional data, CRM systems, website interactions, mobile app data, social media, and offline channels into Adobe Real-time CDP. Ensure that data is collected, stored, and updated in real-time for a comprehensive customer view. 
 
@@ -97,38 +97,38 @@ Personalized Content: create personalized content and messaging for each custome
 Omnichannel Engagement: Implement a solution that enables seamless customer journeys across multiple channels, such as email, SMS, push notifications, website, in-store interactions, etc. Ensure that the content and messaging are consistent and personalized across all touchpoints, providing a cohesive experience. 
 
 
-## Experience Platform
+## EXPERIENCE PLATFORM
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
 * Sandbox Name: CDP Practice Masters A/B/C/D (VA7)
 
-## Mobile App
+## MOBILE APP
 * Read first: https://docs.adobedemo.com/dx-demo-mobile-app/overview/first-installation-+-first-launch
 * App links: https://builder.adobedemo.com/install
 
 
-## Links & Assets
+## LINKS & ASSETS
 * https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html
 * https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/accreditation/technical_sales_program.html 
 * https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/overview.html?lang=en
 
-## Tips and Tricks
+## TIPS & TRICKS
 * For every new demo run always use new anonymous (incognito) window or reset the mobile app
 * When creating a new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
 * If you can't access AEP  - make sure you are using the Business ID (not Personal Adobe ID)
 * Use this guide for quick ingestion of CRM-like data: https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/module2/ex4.html?lang=en
 
-## Agenda
+## AGENDA
 - TBD
 
-## Adobe Contacts
+## ADOBE CONTACTS
 - Dominik Gach, dgach@adobe.com
 - Radim Sevcik, sevcik@adobe.com
 - Nishant Pithia, pithia@adobe.com
 - Ricardo Pereira, ripereir@adobe.com
 - Zofia Korczyc, zkorczyc@adobe.com
 
-## Feedback Form
+## FEEDBACK FORM
 
 We will be more than happy to hear about your thoughts on the AEP Bootcamp. Any suggestions how to improve this series are highly valuable to us.
 Link: https://forms.office.com/r/rgAgc9DLCi
