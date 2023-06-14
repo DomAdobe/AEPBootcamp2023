@@ -1,8 +1,7 @@
-# Adobe Masters of Practice 2022 - Real-Time CDP
+# AEP Bootcamp 2023 - Milan/ Madrid
 
 ![Adobe_MoP_CDP_Red-Pink-Green](https://user-images.githubusercontent.com/61875393/192518583-46dbf821-e7d7-4080-be31-f60502aa8d5e.png)
 
-Series Landing Page: https://cdp-masters.com/
 
 ## Goal
 
