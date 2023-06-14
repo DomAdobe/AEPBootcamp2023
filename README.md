@@ -29,21 +29,19 @@ When building your presentation try to consider these aspects of a great custome
 * Innovation/Creativity
 * Collaboration and Completeness
 
+### DEMO SCENARIO: WKND Fly (T&H) -- WILL BE PRESENTED BY ADOBE PARTNER SOLUTION CONSULTANT
+
+Challenges:
+WKND Fly wants to learn more about their customers, their online and offline behaviour. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalised experience.
+
 ## Breakouts
 
 Each team will be assigned a given scenarion from the list below that they will try to solve in the breakout part of this session.
 
-### Scenario 0: SecurFinance (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
+### Scenario A: SecurFinance One (FSI)
 
-Challenges:
-* On-boarding can be complex and form intensive for loans or investments
-* Communications are static and doesn’t adjust to changes in customer context
-
-### Scenario A: Luma (Retail)
-
-Challenges:
-* Unable to stitch known and anonymous data across channels & devices to create single view of customer in real-time
-* Unable to see a single customer view across channels, LOBs and devices
+Challenge:
+Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile push notifications. 
 
 Environments:
 - [link here](https://builder.adobedemo.com/web/cdp-mop-a) (web)
@@ -51,23 +49,20 @@ Environments:
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
-### Scenario B: SecurFinance (FSI)
+### Scenario B: SecurFinance Two (FSI)
 
-Challenges:
-* Reaching out to customers to activate their card, fund their card, and set up direct deposits
-* Cross-channel view of their customers that effectively combines digital and traditional data channels
+Challenge:
+Secure Finance Two wants to design a personalized customer journey for new customers who have just opened a savings account with Secure Finance Two. The journey should span multiple touchpoints and engage the customer throughout their lifecycle, with the ultimate goal of increasing their engagement and cross-selling relevant financial products and services by leveraging Mobile Push notifications. 
 
 Environments:
 - [link here](https://builder.adobedemo.com/web/cdp-mop-b) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
-### Scenario C: Carvelo (Automotive)
+### Scenario C: Luma One (Retail)
 
 Challenges:
-* Experiences only personalized to a subset of segments & channels (e.g. online but not instore) and lack insights that scale across audiences
-* Inability to leverage key data sources (e.g. Call Centre) for proactive customer engagement
-
+Luma One aims to enhance their understanding of their customers by investigating their online and offline activities. They want to gather valuable insights into user interactions, such as the web pages and app sections they explore. By closely observing the purchase funnel, XY plans to leverage this information to provide a hyper personalization and deliver more relevant experiences to their customers online as well as offline. 
 
 Environments:
 
@@ -75,12 +70,11 @@ Environments:
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
-### Scenario D: City Signal (Telco)
+### Scenario D: Luma Two (Retail)
 
 Challenges:
 
-* Call center representatives have limited visibility to inbound caller's previous interactions
-* Offers and recommendations are often scripted, not considering the customer context
+Judy is a customer of Luma Two, a major retail chain, who, despite having an account with them, has only made occasional purchases throughout the years. XY has struggled to comprehend and effectively respond to Judy ‘s purchasing habits to cultivate her loyalty across their range of products. Now, XY aims to establish a strategy for engaging with Judy intelligently, with the goal of consistently providing her with captivating and interconnected experiences during crucial moments. 
 
 Environments:
 
@@ -88,6 +82,17 @@ Environments:
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
+
+## Inspirations (applicable to all Scenarios)
+ 
+Data Integration: Design a solution to integrate data from multiple sources such as transactional data, CRM systems, website interactions, mobile app data, social media, and offline channels into Adobe Real-time CDP. Ensure that data is collected, stored, and updated in real-time for a comprehensive customer view. 
+
+Customer Segmentation: segment customers based on their demographic information, behavior patterns, purchase history, and other relevant attributes. Develop segments that align with your business goals and target different customer personas. 
+
+Personalized Content: create personalized content and messaging for each customer segment. Dynamically tailor offers, promotions, recommendations, and product suggestions at various stages of the customer journey. 
+
+Omnichannel Engagement: Implement a solution that enables seamless customer journeys across multiple channels, such as email, SMS, push notifications, website, in-store interactions, etc. Ensure that the content and messaging are consistent and personalized across all touchpoints, providing a cohesive experience. 
+
 
 ## Experience Platform
 
@@ -106,30 +111,22 @@ Environments:
 
 ## Tips and Tricks
 * For every new demo run always use new anonymous (incognito) window or reset the mobile app
-* When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
-* If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
+* When creating a new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
+* If you can't access AEP  - make sure you are using the Business ID (not Personal Adobe ID)
 * Use this guide for quick ingestion of CRM-like data: https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/module2/ex4.html?lang=en
 
 ## Agenda
-
-- 9.15 Intro to the Workshop
-- 9.30 Real-Time CDP Jumpstart 
-- 10.00 Demo Customer Pitch and Q&A (with an Adobe Solution Consultant)
-- 10.45 Coffee Break
-- 11.00 Team Assignment and Environments Handover
-- 12.00 Lunch
-- 13.00 Breakouts
-- 15.30 Team Presentations
-- 16.30 Summary and Key Takeaway
-- 17.00 End of the session
+- TBD
 
 ## Adobe Contacts
 - Dominik Gach, dgach@adobe.com
 - Radim Sevcik, sevcik@adobe.com
 - Nishant Pithia, pithia@adobe.com
+- Ricardo Pereira, ripereir@adobe.com
+- Zofia Korczyc, zkorczyc@adobe.com
 
 ## Feedback Form
 
-We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
+We will be more than happy to hear about your thoughts on the AEP Bootcamp. Any suggestions how to improve this series are highly valuable to us.
 Link: https://forms.office.com/r/rgAgc9DLCi
 
