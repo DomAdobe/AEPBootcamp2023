@@ -74,7 +74,7 @@ Secure Finance One is a financial services institution (FSI) that offers a wide 
 Environments:
 - [link here](https://dsn.adobe.com/web/cdp-masters-c) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-c-mobile (mobile)
-- [link here](https://dsn.adobe.com/cx2/cdp-masters-c-cx) (CX app) 
+- [link here](https://dsn.adobe.com/cx/cdp-masters-c-cx) (CX app) 
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario D: SecurFinance Two (FSI)
