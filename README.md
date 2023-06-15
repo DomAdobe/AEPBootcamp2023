@@ -85,7 +85,7 @@ Secure Finance Two wants to design a personalized customer journey for new custo
 Environments:
 - [link here](https://dsn.adobe.com/web/cdp-masters-d) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-d-mobile (mobile)
-- [link here](https://dsn.adobe.com/cx2/cdp-masters-d-cx) (CX app) 
+- [link here](https://dsn.adobe.com/cx/cdp-masters-d-cx) (CX app) 
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 
