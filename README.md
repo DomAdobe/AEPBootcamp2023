@@ -41,39 +41,19 @@ WKND Fly wants to learn more about their customers, their online and offline beh
 
 During the Breakouts each team works on one scenario from the list below:
 
-### Scenario A: SecurFinance One (FSI)
-
-Challenge:
-Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile push notifications. 
-
-Environments:
-- [link here](https://builder.adobedemo.com/web/cdp-mop-a) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
-- [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
-- https://docs.adobedemo.com/projects/public-projects/luma/web
-
-### Scenario B: SecurFinance Two (FSI)
-
-Challenge:
-Secure Finance Two wants to design a personalized customer journey for new customers who have just opened a savings account with Secure Finance Two. The journey should span multiple touchpoints and engage the customer throughout their lifecycle, with the ultimate goal of increasing their engagement and cross-selling relevant financial products and services by leveraging Mobile Push notifications. 
-
-Environments:
-- [link here](https://builder.adobedemo.com/web/cdp-mop-b) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
-- https://docs.adobedemo.com/projects/public-projects/securfinancial
-
-### Scenario C: Luma One (Retail)
+### Scenario A: Luma One (Retail)
 
 Challenges:
 Luma One aims to enhance their understanding of their customers by investigating their online and offline activities. They want to gather valuable insights into user interactions, such as the web pages and app sections they explore. By closely observing the purchase funnel, XY plans to leverage this information to provide a hyper personalization and deliver more relevant experiences to their customers online as well as offline. 
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/web/cdp-mop-c/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
-- https://docs.adobedemo.com/projects/public-projects/carvelo/web 
+- [link here](https://dsn.adobe.com/web/cdp-masters-a) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-a-mobile (mobile)
+- [link here] https://dsn.adobe.com/cx2/cdp-masters-a-cx (CX app)
+- https://docs.adobedemo.com/projects/public-projects/luma
 
-### Scenario D: Luma Two (Retail)
+### Scenario B: Luma Two (Retail)
 
 Challenges:
 
@@ -81,10 +61,33 @@ Judy is a customer of Luma Two, a major retail chain, who, despite having an acc
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/run/cdp-mop-d/home) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
-- [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
-- https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
+- [link here](https://dsn.adobe.com/web/cdp-masters-b) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-b-mobile (mobile)
+- [link here](https://dsn.adobe.com/cx2/cdp-masters-b-cx) (CX app) 
+- https://docs.adobedemo.com/projects/public-projects/luma
+
+### Scenario C: SecurFinance One (FSI)
+
+Challenge:
+Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile push notifications. 
+
+Environments:
+- [link here](https://dsn.adobe.com/web/cdp-masters-c) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-c-mobile (mobile)
+- [link here](https://dsn.adobe.com/cx2/cdp-masters-c-cx) (CX app) 
+- https://docs.adobedemo.com/projects/public-projects/securfinancial
+
+### Scenario D: SecurFinance Two (FSI)
+
+Challenge:
+Secure Finance Two wants to design a personalized customer journey for new customers who have just opened a savings account with Secure Finance Two. The journey should span multiple touchpoints and engage the customer throughout their lifecycle, with the ultimate goal of increasing their engagement and cross-selling relevant financial products and services by leveraging Mobile Push notifications. 
+
+Environments:
+- [link here](https://dsn.adobe.com/web/cdp-masters-d) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-d-mobile (mobile)
+- [link here](https://dsn.adobe.com/cx2/cdp-masters-b-cx) (CX app) 
+- https://docs.adobedemo.com/projects/public-projects/securfinancial
+
 
 ## INSPIRATIONS (applicable to all Scenarios)
  
