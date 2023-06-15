@@ -137,20 +137,20 @@ Omnichannel Engagement: Implement a solution that enables seamless customer jour
 * Coffe Break
 * Introduction to hands on exercise: AJO
 * Inspirational Session
-*  Closing
+* Closing
 
 ### Day 2
 * Project Implementation Best Practices
 * Partner Resource Enablement
 * Breakouts
 * Define your AEP POV
-* Coffe Break
+* Coffee Break
 * Hands on demo build for the team use cases
 * Lunch Break
 * QUIZ SESSION, SURVEY
 * Refine the Use Case presentation
 * Group presentations
-* Wrap. up
+* Wrap up
 
 
 ## ADOBE CONTACTS
