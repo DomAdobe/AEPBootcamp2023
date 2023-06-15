@@ -121,8 +121,37 @@ Omnichannel Engagement: Implement a solution that enables seamless customer jour
 * If you can't access AEP  - make sure you are using the Business ID (not Personal Adobe ID)
 * Use this guide for quick ingestion of CRM-like data: https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/module2/ex4.html?lang=en
 
-## AGENDA
-- TBD
+## AGENDA 
+
+### Day 1
+* Bootcamp Introduction & Agenda
+* Partipant Presentation - Icebreaker 
+* AEP Overviev
+* How to win with AEP
+* AEP Sales Play
+* Coffee Break
+* Introduction about use cases, exercises and environments, Break into the teams
+* QUIZ SESSION
+* Lunch Break
+* Introduction to hands on exercise: Profile and Segments
+* Coffe Break
+* Introduction to hands on exercise: AJO
+* Inspirational Session
+*  Closing
+
+### Day 2
+* Project Implementation Best Practices
+* Partner Resource Enablement
+* Breakouts
+* Define your AEP POV
+* Coffe Break
+* Hands on demo build for the team use cases
+* Lunch Break
+* QUIZ SESSION, SURVEY
+* Refine the Use Case presentation
+* Group presentations
+* Wrap. up
+
 
 ## ADOBE CONTACTS
 - Dominik Gach, dgach@adobe.com
