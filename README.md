@@ -103,7 +103,7 @@ Omnichannel Engagement: Implement a solution that enables seamless customer jour
 ## EXPERIENCE PLATFORM
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: CDP Practice Masters A/B/C/D (VA7)
+* Sandbox Name: cdp-practice-masters-a/b/c/d
 
 ## MOBILE APP
 * Read first: https://docs.adobedemo.com/dx-demo-mobile-app/overview/first-installation-+-first-launch
