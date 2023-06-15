@@ -50,7 +50,7 @@ Environments:
 
 - [link here](https://dsn.adobe.com/web/cdp-masters-a) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-a-mobile (mobile)
-- [link here] https://dsn.adobe.com/cx2/cdp-masters-a-cx (CX app)
+- [link here](https://dsn.adobe.com/cx2/cdp-masters-a-cx) (CX app)
 - https://docs.adobedemo.com/projects/public-projects/luma
 
 ### Scenario B: Luma Two (Retail)
