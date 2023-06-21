@@ -34,7 +34,7 @@ When building your presentation try to consider these aspects of a great custome
 
 ### Demo Scenario: WKND Fly (T&H) -- WILL BE PRESENTED BY ADOBE PARTNER SOLUTION CONSULTANT
 
-Challenges:
+Challenge:
 WKND Fly wants to learn more about their customers, their online and offline behaviour. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalised experience.
 
 ## BREAKOUTS
@@ -43,7 +43,7 @@ During the Breakouts each team works on one scenario from the list below:
 
 ### Scenario A: Luma One (Retail)
 
-Challenges:
+Challenge:
 Cart abandonment is one of the biggest challenges digital retailers like Luma One are facing today. Some people got distracted, some of them just found cheaper products. It is important to have a good marketing strategy and relevant messaging to keep customers engaged and try to make them come back and finish the purchase. Cart Abandonment Email is a good pattern for this strategy. 
 
 More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario)
@@ -57,8 +57,7 @@ Environments:
 
 ### Scenario B: Luma Two (Retail)
 
-Challenges:
-
+Challenge:
 Luma Two wants to learn more about their customers, their online and offline behavior. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalized experience.
 
 More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cross-channel-data-collection))
