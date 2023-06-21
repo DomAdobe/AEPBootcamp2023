@@ -59,7 +59,9 @@ Environments:
 
 Challenges:
 
-Judy is a customer of Luma Two, a major retail chain, who, despite having an account with them, has only made occasional purchases throughout the years. XY has struggled to comprehend and effectively respond to Judy ‘s purchasing habits to cultivate her loyalty across their range of products. Now, XY aims to establish a strategy for engaging with Judy intelligently, with the goal of consistently providing her with captivating and interconnected experiences during crucial moments. 
+Luma Two wants to learn more about their customers, their online and offline behavior. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalized experience.
+
+More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cross-channel-data-collection))
 
 Environments:
 
