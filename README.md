@@ -35,6 +35,7 @@ When building your presentation try to consider these aspects of a great custome
 ### Demo Scenario: WKND Fly (T&H) -- WILL BE PRESENTED BY ADOBE PARTNER SOLUTION CONSULTANT
 
 Challenge:
+
 WKND Fly wants to learn more about their customers, their online and offline behaviour. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalised experience.
 
 ## BREAKOUTS
@@ -44,6 +45,7 @@ During the Breakouts each team works on one scenario from the list below:
 ### Scenario A: Luma One (Retail)
 
 Challenge:
+
 Cart abandonment is one of the biggest challenges digital retailers like Luma One are facing today. Some people got distracted, some of them just found cheaper products. It is important to have a good marketing strategy and relevant messaging to keep customers engaged and try to make them come back and finish the purchase. Cart Abandonment Email is a good pattern for this strategy. 
 
 More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario)
@@ -58,6 +60,7 @@ Environments:
 ### Scenario B: Luma Two (Retail)
 
 Challenge:
+
 Luma Two wants to learn more about their customers, their online and offline behavior. They are adding AEP and Data Collection tag to their website and mobile app to gather information about what the users are looking at on the web page and mobile app, observe the purchase funnel and use this information to deliver more relevant and personalized experience.
 
 More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cross-channel-data-collection))
@@ -72,6 +75,7 @@ Environments:
 ### Scenario C: SecurFinance One (FSI)
 
 Challenge:
+
 Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile (push and in-app) and email.
 
 Their main Business goal is to grow revenue for engaged Customers through upsell/cross-sell. Currently the biggest challenges are the siloed technology which impacts the Real-time knowledge of the Customers and the lack of intelligent Personalization. Secure Finance One is expecting you as a partner to propose a solution to help their Customers having an unique experience. 
@@ -92,6 +96,7 @@ Environments:
 ### Scenario D: SecurFinance Two (FSI)
 
 Challenge:
+
 Secure Finance Two wants to design a personalized customer journey for new customers who have just opened a savings account with Secure Finance Two. The journey should span multiple touchpoints and engage the customer throughout their lifecycle, with the ultimate goal of increasing their engagement and cross-selling relevant financial products and services by leveraging Mobile Push notifications. 
 
 Their main Business goals are to grow revenue for engaged Customers through upsell/cross-sell, and Deepen Customer relationships and loyalty. 
