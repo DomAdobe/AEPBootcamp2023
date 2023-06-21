@@ -46,7 +46,7 @@ During the Breakouts each team works on one scenario from the list below:
 Challenges:
 Cart abandonment is one of the biggest challenges digital retailers like Luma One are facing today. Some people got distracted, some of them just found cheaper products. It is important to have a good marketing strategy and relevant messaging to keep customers engaged and try to make them come back and finish the purchase. Cart Abandonment Email is a good pattern for this strategy. 
 
-More details on the scenario [link here](https://dsn.adobe.com/web/cdp-masters-a](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario)
+More details on the scenario [link here](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario)
 
 Environments:
 
