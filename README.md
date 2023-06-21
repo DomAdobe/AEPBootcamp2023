@@ -95,6 +95,17 @@ Environments:
 Challenge:
 Secure Finance Two wants to design a personalized customer journey for new customers who have just opened a savings account with Secure Finance Two. The journey should span multiple touchpoints and engage the customer throughout their lifecycle, with the ultimate goal of increasing their engagement and cross-selling relevant financial products and services by leveraging Mobile Push notifications. 
 
+Their main Business goals are to grow revenue for engaged Customers through upsell/cross-sell, and Deepen Customer relationships and loyalty. 
+Currently the biggest challenges are the siloed technology which impacts the Real-time knowledge of the Customers and can't leverage AI/ML automated decisioning to drive more effective Marketing engagement. Secure Finance Two is expecting you as a partner to propose a solution to help their Customers having a unique experience. 
+
+#### Tips/Ideas for the Scenario 2 
+
+* Customer is looking for a house on House Find website. This action puts her/him in the "Looking for a house" segment and Secure Financial Two uses this information to personalize the home page for her making the Home Loan page accessible with one click. 
+* Customer navigates to the Secure Financial Two Home Loan page which contains a mortgage calculator. Here, she/he can easily calculate the monthly payment and decides to apply. 
+* The form is already pre-populated with Customer's data which simplifies the process. She/he fills out the form uploading necessary documents and submits her/his application on receiving a confirmation email. 
+* The Customer likes the property she/he found so much that she/he decides to make an offer. Using the Secure Financial Two mobile app, Customer sends her/his preapproval document to the realtor receiving an email confirmation. 
+* Sometime later, Customer receives another message confirming that her/his closing documents were accepted. 
+
 Environments:
 - [link here](https://dsn.adobe.com/web/cdp-masters-d) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-masters-d-mobile (mobile)
