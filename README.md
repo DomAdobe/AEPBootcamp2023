@@ -44,7 +44,9 @@ During the Breakouts each team works on one scenario from the list below:
 ### Scenario A: Luma One (Retail)
 
 Challenges:
-Luma One aims to enhance their understanding of their customers by investigating their online and offline activities. They want to gather valuable insights into user interactions, such as the web pages and app sections they explore. By closely observing the purchase funnel, XY plans to leverage this information to provide a hyper personalization and deliver more relevant experiences to their customers online as well as offline. 
+Cart abandonment is one of the biggest challenges digital retailers like Luma One are facing today. Some people got distracted, some of them just found cheaper products. It is important to have a good marketing strategy and relevant messaging to keep customers engaged and try to make them come back and finish the purchase. Cart Abandonment Email is a good pattern for this strategy. 
+
+More details on the scenario [link here]([https://dsn.adobe.com/web/cdp-masters-a](https://docs.adobedemo.com/projects/public-projects/luma/scenarios/cart-abandonment-scenario))
 
 Environments:
 
