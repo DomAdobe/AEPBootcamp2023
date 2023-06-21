@@ -77,7 +77,7 @@ Secure Finance One is a financial services institution (FSI) that offers a wide 
 
 Their main Business goal is to grow revenue for engaged Customers through upsell/cross-sell. Currently the biggest challenges are the siloed technology which impacts the Real-time knowledge of the Customers and the lack of intelligent Personalization. Secure Finance One is expecting you as a partner to propose a solution to help their Customers having an unique experience. 
 
-# Tips/Ideas for the Scenario 1 
+#### Tips/Ideas for the Scenario 1 
 
 * A potential Customer is looking for opening an account with a bank and is browsing saving banking solutions to take advantage of the current higher interest rates.  
 * An article about Secure Finance One gives great references about the financial products offered. Customer decides to go to their website and starts looking for saving accounts and other saving options.
