@@ -73,7 +73,16 @@ Environments:
 ### Scenario C: SecurFinance One (FSI)
 
 Challenge:
-Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile push notifications. 
+Secure Finance One is a financial services institution (FSI) that offers a wide range of products and services such as banking, investments, insurance, and loans. To stay competitive in the rapidly evolving digital landscape, Secure Finance One aims to provide seamless and personalized customer experiences across multiple touchpoints. Their main objective is to create personalized and contextualized customer journeys that can be delivered through mobile (push and in-app) and email.
+
+Their main Business goal is to grow revenue for engaged Customers through upsell/cross-sell. Currently the biggest challenges are the siloed technology which impacts the Real-time knowledge of the Customers and the lack of intelligent Personalization. Secure Finance One is expecting you as a partner to propose a solution to help their Customers having an unique experience. 
+
+####Tips/Ideas for the Scenario 1 
+
+* A potential Customer is looking for opening an account with a bank and is browsing saving banking solutions to take advantage of the current higher interest rates.  
+* An article about Secure Finance One gives great references about the financial products offered. Customer decides to go to their website and starts looking for saving accounts and other saving options.
+* Meanwhile decides to create an account with the Bank registering on the website. A personalized email confirmation is sent to the Customer containing some savings offers/content with a link to the respective savings form.
+* Customer fills the form (or is pre-filled) and submits the request receiving a mobile push confirmation or email depending on the channel preference. 
 
 Environments:
 - [link here](https://dsn.adobe.com/web/cdp-masters-c) (web)
